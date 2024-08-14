@@ -1,0 +1,1 @@
+docker build -f Dockerfile.MRCRadiomics -t haanme/mrcradiomics:1.3.1 .
